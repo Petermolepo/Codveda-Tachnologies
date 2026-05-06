@@ -1,0 +1,301 @@
+CustomerID,Age,Gender,City,AnnualIncome,SpendingScore,Purchases,FavouriteCategory,SatisfactionRating
+1,65,Male,Cape Town,42444.63,75,9,Electronics,2
+2,22,Female,Pretoria,31804.68,27,13,Groceries,1
+3,43,Male,Johannesburg,29616.68,46,13,Home & Garden,2
+4,21,Male,Johannesburg,42731.31,37,13,Groceries,2
+5,37,Female,Cape Town,47079.11,55,6,Electronics,3
+6,41,Female,Cape Town,37177.72,47,10,Electronics,2
+7,57,Male,Johannesburg,46940.06,59,12,Clothing,2
+8,46,Male,Pretoria,24350.16,1,22,Electronics,1
+9,32,Female,Durban,52260.8,36,8,Home & Garden,2
+10,41,Female,Cape Town,19714.32,21,18,Clothing,1
+11,26,Female,Cape Town,48510.59,42,7,Clothing,3
+12,43,Female,Cape Town,64551.29,38,11,Groceries,2
+13,64,Male,Johannesburg,71654.9,41,12,Electronics,3
+14,60,Male,Johannesburg,82858.84,65,12,Clothing,2
+15,44,Female,Durban,23986.82,65,19,Clothing,2
+16,26,Male,Cape Town,65657.05,7,12,Electronics,1
+17,57,Female,Cape Town,73713.08,47,11,Groceries,2
+18,56,Female,Johannesburg,69650.03,55,10,Groceries,4
+19,22,Female,Johannesburg,35272.17,40,9,Electronics,1
+20,66,Male,Pretoria,59412.34,42,15,Clothing,2
+21,25,Male,Pretoria,85481.0,35,8,Clothing,1
+22,62,Male,Durban,25049.07,23,17,Home & Garden,2
+23,18,Female,Johannesburg,60574.08,59,7,Groceries,3
+24,29,Male,Johannesburg,72021.23,67,12,Home & Garden,3
+25,24,Female,Johannesburg,39461.36,43,6,Groceries,4
+26,37,Male,Durban,62493.47,36,12,Groceries,2
+27,62,Female,Johannesburg,32723.93,41,9,Clothing,3
+28,23,Female,Johannesburg,37380.25,37,9,Home & Garden,1
+29,42,Female,Johannesburg,37292.56,49,11,Clothing,2
+30,66,Male,Durban,55461.54,48,8,Groceries,2
+31,18,Male,Cape Town,50362.34,35,8,Groceries,2
+32,52,Male,Pretoria,69174.07,53,12,Clothing,2
+33,27,Male,Johannesburg,35074.98,22,10,Electronics,1
+34,32,Female,Johannesburg,49637.04,57,5,Groceries,1
+35,56,Female,Pretoria,69299.38,68,11,Groceries,3
+36,22,Female,Johannesburg,62093.99,30,12,Groceries,1
+37,64,Male,Durban,28156.46,44,5,Electronics,2
+38,27,Male,Cape Town,63973.67,34,10,Electronics,2
+39,41,Female,Johannesburg,43388.48,59,15,Groceries,5
+40,53,Female,Johannesburg,58936.96,61,17,Home & Garden,3
+41,21,Male,Durban,57412.25,43,10,Electronics,3
+42,26,Female,Johannesburg,73947.74,67,13,Home & Garden,4
+43,37,Female,Pretoria,54098.08,39,19,Home & Garden,3
+44,66,Male,Johannesburg,18631.49,25,13,Electronics,2
+45,19,Female,Johannesburg,27342.53,29,10,Groceries,1
+46,18,Male,Durban,65160.78,47,16,Clothing,2
+47,34,Male,Johannesburg,47350.31,39,9,Electronics,2
+48,49,Female,Pretoria,72483.62,54,8,Electronics,4
+49,47,Female,Cape Town,56921.9,37,17,Clothing,2
+50,62,Male,Johannesburg,38516.82,53,16,Electronics,4
+51,46,Female,Johannesburg,71483.32,66,13,Groceries,2
+52,25,Male,Cape Town,37466.84,33,9,Clothing,2
+53,41,Female,Pretoria,15052.56,13,15,Clothing,1
+54,28,Female,Johannesburg,89148.32,67,23,Home & Garden,4
+55,59,Female,Cape Town,17606.52,52,8,Home & Garden,1
+56,53,Male,Cape Town,63455.43,46,10,Clothing,1
+57,18,Male,Durban,68899.33,31,13,Clothing,1
+58,25,Female,Durban,54647.19,50,11,Groceries,2
+59,41,Male,Johannesburg,21698.86,59,12,Clothing,5
+60,46,Female,Cape Town,70270.27,22,22,Home & Garden,1
+61,50,Male,Pretoria,26052.21,44,10,Clothing,1
+62,39,Male,Pretoria,27814.69,33,13,Electronics,2
+63,54,Male,Cape Town,45489.97,30,13,Electronics,1
+64,53,Female,Pretoria,66193.08,57,15,Electronics,3
+65,51,Female,Johannesburg,57402.05,27,12,Electronics,1
+66,21,Male,Durban,66593.83,54,15,Home & Garden,2
+67,45,Female,Pretoria,44014.41,62,10,Groceries,3
+68,51,Male,Cape Town,48900.7,47,17,Groceries,3
+69,37,Female,Durban,31531.54,26,11,Home & Garden,2
+70,45,Female,Johannesburg,46296.42,17,13,Groceries,2
+71,22,Male,Pretoria,62676.31,29,12,Groceries,1
+72,37,Female,Durban,46603.1,16,10,Electronics,2
+73,51,Female,Cape Town,60558.27,72,5,Clothing,4
+74,48,Male,Cape Town,41681.06,38,14,Groceries,2
+75,55,Male,Johannesburg,41336.95,26,8,Home & Garden,2
+76,27,Male,Pretoria,52705.04,26,14,Clothing,1
+77,47,Female,Cape Town,48492.13,28,18,Clothing,2
+78,35,Female,Cape Town,62662.93,43,11,Clothing,3
+79,49,Female,Johannesburg,55209.22,27,10,Clothing,2
+80,20,Male,Durban,83326.23,80,19,Groceries,5
+81,37,Male,Johannesburg,48049.1,33,17,Home & Garden,3
+82,68,Female,Durban,47909.45,32,12,Home & Garden,2
+83,36,Female,Johannesburg,33277.64,44,12,Groceries,2
+84,39,Male,Johannesburg,52410.0,67,13,Electronics,5
+85,21,Female,Johannesburg,64290.92,69,17,Clothing,3
+86,29,Female,Cape Town,38674.68,34,5,Groceries,2
+87,65,Male,Pretoria,51105.9,49,11,Home & Garden,2
+88,34,Male,Johannesburg,64934.02,51,16,Electronics,1
+89,30,Female,Cape Town,49715.64,52,12,Groceries,2
+90,47,Male,Johannesburg,42655.53,46,11,Home & Garden,2
+91,61,Male,Cape Town,69515.68,36,11,Electronics,2
+92,59,Male,Johannesburg,53746.35,27,10,Home & Garden,1
+93,27,Female,Johannesburg,59138.16,50,18,Groceries,3
+94,30,Male,Cape Town,73085.08,34,12,Home & Garden,3
+95,21,Male,Johannesburg,72615.69,72,16,Groceries,4
+96,64,Female,Johannesburg,45750.32,44,13,Groceries,2
+97,32,Female,Cape Town,42542.27,27,9,Home & Garden,1
+98,38,Female,Johannesburg,57117.56,42,9,Groceries,2
+99,33,Male,Pretoria,49609.82,37,15,Clothing,1
+100,53,Female,Johannesburg,17802.5,33,15,Clothing,3
+101,66,Male,Pretoria,74956.51,66,9,Home & Garden,2
+102,22,Male,Johannesburg,52348.5,24,9,Clothing,1
+103,61,Male,Pretoria,65254.8,21,11,Clothing,1
+104,26,Female,Johannesburg,30887.5,44,15,Electronics,1
+105,44,Male,Johannesburg,75187.66,49,14,Clothing,3
+106,61,Male,Johannesburg,41411.27,44,6,Groceries,2
+107,65,Female,Durban,50061.99,51,13,Electronics,3
+108,41,Male,Johannesburg,26774.36,35,12,Clothing,2
+109,31,Female,Johannesburg,48994.9,56,14,Groceries,2
+110,68,Female,Durban,47863.53,30,10,Clothing,2
+111,57,Male,Johannesburg,48663.51,45,10,Groceries,2
+112,21,Male,Cape Town,59893.09,35,22,Clothing,3
+113,47,Female,Cape Town,53086.23,28,7,Clothing,2
+114,30,Male,Johannesburg,69564.09,60,13,Groceries,2
+115,30,Male,Pretoria,43573.15,51,13,Groceries,3
+116,33,Female,Cape Town,34071.71,11,14,Clothing,1
+117,47,Male,Johannesburg,51656.08,28,18,Electronics,2
+118,26,Male,Durban,63310.62,53,15,Home & Garden,3
+119,56,Male,Pretoria,74403.55,68,13,Electronics,3
+120,24,Female,Johannesburg,66650.59,40,13,Clothing,2
+121,39,Female,Johannesburg,20222.07,33,11,Groceries,1
+122,62,Female,Pretoria,58787.05,26,12,Home & Garden,4
+123,45,Male,Cape Town,78286.69,91,3,Clothing,4
+124,25,Female,Cape Town,53126.37,53,10,Electronics,2
+125,35,Male,Cape Town,42711.23,56,13,Groceries,3
+126,60,Female,Durban,57564.9,57,14,Home & Garden,4
+127,65,Male,Cape Town,42941.64,56,17,Clothing,2
+128,23,Female,Durban,63504.04,58,19,Home & Garden,1
+129,54,Female,Cape Town,51766.1,40,7,Clothing,3
+130,59,Female,Johannesburg,77074.0,64,14,Home & Garden,3
+131,59,Male,Cape Town,60991.05,49,11,Electronics,2
+132,47,Female,Pretoria,38970.08,61,12,Groceries,4
+133,44,Female,Cape Town,62883.36,37,17,Home & Garden,1
+134,18,Female,Cape Town,68848.21,42,8,Clothing,1
+135,40,Female,Johannesburg,41767.79,52,7,Home & Garden,3
+136,52,Male,Durban,44335.7,62,6,Groceries,3
+137,30,Male,Cape Town,15000.0,36,9,Clothing,2
+138,24,Female,Johannesburg,68261.31,39,11,Electronics,2
+139,58,Male,Cape Town,41420.42,40,11,Groceries,3
+140,52,Female,Cape Town,15000.0,27,9,Clothing,1
+141,60,Female,Johannesburg,20162.11,64,9,Clothing,2
+142,64,Male,Johannesburg,47986.9,57,7,Electronics,3
+143,67,Female,Cape Town,65691.88,68,6,Electronics,3
+144,47,Male,Johannesburg,50396.84,49,16,Electronics,3
+145,56,Female,Johannesburg,60492.0,39,12,Groceries,2
+146,60,Female,Cape Town,32173.01,57,16,Electronics,4
+147,35,Female,Pretoria,27855.42,63,12,Clothing,3
+148,23,Male,Cape Town,67942.97,59,15,Groceries,1
+149,33,Female,Cape Town,60858.6,47,13,Clothing,2
+150,67,Female,Pretoria,51450.84,61,9,Clothing,3
+151,30,Male,Durban,75077.67,46,9,Clothing,2
+152,59,Male,Durban,34878.57,51,12,Groceries,2
+153,58,Female,Cape Town,44435.21,32,10,Clothing,3
+154,46,Female,Cape Town,70474.68,36,11,Clothing,2
+155,65,Female,Johannesburg,85080.3,64,8,Home & Garden,4
+156,55,Male,Johannesburg,52151.66,50,6,Electronics,3
+157,27,Female,Johannesburg,82231.35,83,7,Groceries,3
+158,41,Male,Johannesburg,41154.81,38,6,Groceries,1
+159,39,Male,Cape Town,57935.5,47,13,Clothing,2
+160,22,Female,Cape Town,48871.18,27,15,Groceries,2
+161,45,Female,Johannesburg,23411.53,8,13,Groceries,1
+162,30,Male,Durban,56643.51,20,13,Clothing,1
+163,59,Male,Cape Town,68789.49,57,6,Clothing,2
+164,29,Male,Cape Town,49331.19,27,7,Electronics,1
+165,24,Male,Johannesburg,50731.81,62,20,Home & Garden,2
+166,51,Male,Pretoria,77072.69,74,15,Home & Garden,3
+167,39,Male,Johannesburg,29505.16,34,8,Clothing,3
+168,39,Male,Johannesburg,25043.41,62,7,Clothing,3
+169,48,Male,Cape Town,40227.3,45,18,Groceries,2
+170,61,Male,Cape Town,30460.79,56,8,Groceries,3
+171,46,Female,Cape Town,76233.21,49,12,Home & Garden,4
+172,69,Male,Pretoria,57574.4,61,13,Groceries,4
+173,30,Male,Johannesburg,36446.32,26,15,Groceries,1
+174,30,Female,Durban,40939.38,51,14,Groceries,1
+175,63,Female,Cape Town,103499.21,54,9,Electronics,1
+176,54,Male,Durban,41018.38,40,9,Clothing,2
+177,25,Male,Durban,38283.56,50,10,Groceries,2
+178,39,Female,Durban,57477.53,49,16,Clothing,1
+179,59,Female,Pretoria,63488.54,47,9,Electronics,1
+180,56,Female,Durban,55990.27,57,13,Clothing,3
+181,33,Female,Johannesburg,35644.73,52,14,Clothing,1
+182,61,Female,Cape Town,31134.63,18,12,Electronics,1
+183,36,Male,Durban,62730.53,57,7,Groceries,3
+184,46,Male,Durban,51024.58,55,7,Groceries,3
+185,34,Male,Pretoria,22454.21,25,16,Electronics,2
+186,23,Female,Cape Town,73078.02,57,11,Electronics,4
+187,53,Female,Johannesburg,65955.92,29,11,Electronics,3
+188,31,Male,Durban,47662.82,65,15,Clothing,4
+189,50,Male,Johannesburg,47315.25,40,12,Home & Garden,2
+190,41,Male,Durban,56166.28,45,11,Clothing,4
+191,49,Female,Johannesburg,39633.83,59,15,Home & Garden,4
+192,51,Male,Cape Town,27730.38,36,14,Electronics,3
+193,63,Male,Durban,57805.32,56,11,Electronics,2
+194,58,Male,Johannesburg,26096.44,22,10,Clothing,1
+195,45,Male,Johannesburg,59033.08,39,13,Electronics,1
+196,32,Female,Johannesburg,26058.27,16,13,Electronics,1
+197,63,Female,Pretoria,50214.23,41,16,Groceries,1
+198,59,Male,Durban,49558.4,60,10,Clothing,3
+199,60,Female,Durban,84087.33,58,5,Groceries,4
+200,50,Female,Cape Town,32841.1,53,9,Electronics,3
+201,52,Male,Pretoria,26530.98,22,16,Clothing,2
+202,49,Male,Johannesburg,40368.81,28,10,Home & Garden,1
+203,66,Male,Durban,31772.82,32,11,Groceries,2
+204,56,Male,Johannesburg,41384.28,51,8,Electronics,2
+205,36,Female,Durban,59574.42,53,12,Clothing,3
+206,27,Female,Johannesburg,65895.59,49,16,Electronics,2
+207,27,Male,Johannesburg,81872.1,63,10,Electronics,4
+208,31,Female,Pretoria,38739.86,39,8,Groceries,3
+209,39,Female,Johannesburg,99493.7,59,11,Electronics,3
+210,61,Male,Pretoria,87679.34,75,10,Electronics,3
+211,19,Female,Durban,48336.52,35,17,Electronics,2
+212,49,Female,Durban,15000.0,37,10,Electronics,3
+213,32,Female,Durban,50503.98,69,16,Clothing,4
+214,34,Female,Pretoria,53305.14,47,21,Electronics,3
+215,66,Female,Johannesburg,15000.0,45,11,Clothing,3
+216,43,Male,Pretoria,53328.97,36,23,Clothing,3
+217,67,Male,Johannesburg,48397.22,73,15,Electronics,2
+218,64,Male,Johannesburg,37857.2,7,11,Electronics,2
+219,51,Male,Pretoria,63279.33,31,15,Electronics,2
+220,39,Male,Johannesburg,70096.27,35,13,Home & Garden,2
+221,37,Male,Cape Town,43248.81,67,9,Clothing,3
+222,36,Female,Durban,56130.64,52,9,Clothing,3
+223,18,Male,Johannesburg,40213.75,38,10,Groceries,2
+224,31,Male,Durban,37841.1,22,12,Groceries,1
+225,28,Female,Durban,53430.94,51,10,Groceries,3
+226,45,Female,Durban,61421.59,50,17,Home & Garden,3
+227,46,Male,Johannesburg,41860.73,32,13,Clothing,3
+228,26,Female,Durban,15000.0,12,10,Electronics,1
+229,51,Male,Durban,62544.13,32,16,Groceries,2
+230,54,Male,Johannesburg,23261.96,40,14,Clothing,2
+231,43,Female,Pretoria,54195.98,50,5,Groceries,3
+232,62,Male,Pretoria,84022.47,56,13,Electronics,3
+233,69,Female,Johannesburg,51697.07,43,13,Groceries,3
+234,60,Female,Pretoria,30584.5,12,14,Electronics,1
+235,46,Female,Pretoria,25698.78,38,14,Clothing,1
+236,25,Female,Johannesburg,73068.31,36,17,Clothing,1
+237,67,Male,Durban,51694.93,46,10,Electronics,1
+238,33,Male,Pretoria,61715.29,55,8,Groceries,2
+239,18,Female,Durban,68673.43,40,11,Groceries,2
+240,36,Female,Johannesburg,51117.96,29,12,Clothing,1
+241,57,Female,Cape Town,46445.12,58,11,Groceries,2
+242,62,Female,Cape Town,34947.74,45,12,Home & Garden,3
+243,66,Male,Cape Town,15000.0,24,17,Groceries,1
+244,18,Male,Cape Town,24675.99,1,6,Clothing,1
+245,62,Male,Johannesburg,50747.32,44,5,Groceries,1
+246,27,Female,Johannesburg,48845.28,54,12,Clothing,2
+247,64,Male,Johannesburg,59264.08,64,7,Groceries,3
+248,52,Female,Cape Town,49719.64,34,10,Groceries,3
+249,66,Male,Cape Town,54868.44,36,9,Clothing,2
+250,61,Female,Pretoria,66180.38,43,16,Groceries,1
+251,23,Female,Johannesburg,36069.19,53,16,Clothing,3
+252,39,Male,Johannesburg,46831.16,26,11,Groceries,2
+253,34,Female,Pretoria,23070.17,35,10,Clothing,2
+254,59,Female,Durban,69512.07,36,10,Groceries,1
+255,29,Female,Johannesburg,52691.52,49,21,Electronics,2
+256,60,Female,Durban,60816.8,24,12,Clothing,3
+257,50,Female,Johannesburg,79764.7,59,14,Clothing,2
+258,58,Female,Pretoria,71431.83,43,10,Electronics,2
+259,54,Male,Johannesburg,50919.97,41,16,Groceries,1
+260,23,Female,Cape Town,66178.34,57,7,Groceries,2
+261,46,Female,Cape Town,26229.33,55,12,Electronics,2
+262,61,Male,Cape Town,59810.37,22,17,Home & Garden,2
+263,47,Female,Johannesburg,54500.38,61,9,Groceries,4
+264,67,Male,Cape Town,22871.16,45,17,Home & Garden,2
+265,64,Male,Johannesburg,76071.76,48,16,Groceries,2
+266,60,Female,Cape Town,39326.61,62,12,Clothing,2
+267,66,Female,Cape Town,64298.12,52,9,Groceries,1
+268,49,Male,Cape Town,44441.17,62,18,Clothing,4
+269,25,Male,Cape Town,69883.77,42,11,Clothing,3
+270,46,Female,Durban,75620.71,39,12,Clothing,3
+271,65,Female,Pretoria,37059.11,59,9,Clothing,3
+272,68,Female,Cape Town,24452.82,69,9,Home & Garden,5
+273,66,Male,Cape Town,49634.62,54,10,Clothing,4
+274,32,Female,Cape Town,67280.5,63,12,Clothing,3
+275,65,Female,Cape Town,45316.38,36,14,Clothing,2
+276,31,Female,Cape Town,40956.58,22,21,Clothing,1
+277,37,Female,Johannesburg,60789.08,44,17,Electronics,2
+278,59,Female,Cape Town,15000.0,57,17,Home & Garden,4
+279,31,Female,Johannesburg,40035.12,14,10,Groceries,1
+280,42,Female,Durban,27091.67,30,8,Clothing,1
+281,21,Male,Pretoria,57306.65,18,12,Groceries,2
+282,25,Female,Durban,38747.51,43,15,Home & Garden,2
+283,67,Female,Durban,31926.98,52,12,Clothing,1
+284,60,Female,Johannesburg,45631.04,25,17,Clothing,1
+285,50,Male,Johannesburg,25568.65,31,8,Clothing,1
+286,51,Male,Johannesburg,51763.77,65,21,Clothing,3
+287,29,Female,Cape Town,39717.3,40,14,Home & Garden,2
+288,45,Female,Johannesburg,45206.46,24,18,Home & Garden,2
+289,22,Male,Johannesburg,39091.51,21,14,Home & Garden,1
+290,56,Female,Pretoria,68420.73,20,16,Groceries,1
+291,49,Female,Cape Town,50040.63,56,13,Clothing,2
+292,67,Female,Johannesburg,61441.21,37,9,Electronics,3
+293,48,Female,Cape Town,60636.14,63,11,Home & Garden,4
+294,32,Male,Durban,37489.28,54,11,Home & Garden,3
+295,62,Male,Cape Town,62259.52,38,8,Clothing,1
+296,61,Male,Johannesburg,58283.95,39,14,Groceries,4
+297,30,Male,Cape Town,57645.67,58,16,Home & Garden,4
+298,34,Male,Johannesburg,44823.52,45,12,Clothing,2
+299,67,Female,Durban,44316.81,47,9,Groceries,1
+300,44,Female,Pretoria,66139.94,25,13,Home & Garden,1

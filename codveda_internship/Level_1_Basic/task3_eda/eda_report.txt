@@ -1,0 +1,46 @@
+
+============================================================
+  CODVEDA INTERNSHIP | LEVEL 1 – TASK 3
+  Exploratory Data Analysis – Insights Report
+============================================================
+
+DATASET OVERVIEW
+  Rows            : 300
+  Columns         : 9
+  Numeric features: 5
+
+KEY STATISTICS
+  Average Age         : 44.2 years
+  Average Income      : ZAR 50,524
+  Average Spending    : 44.0 / 100
+  Average Purchases   : 12.1 per customer
+  Avg Satisfaction    : 2.26 / 5
+
+TOP CORRELATIONS
+SpendingScore  SatisfactionRating    0.576036
+AnnualIncome   SpendingScore         0.349083
+               SatisfactionRating    0.191839
+Age            Purchases             0.104851
+               SpendingScore         0.098375
+
+KEY INSIGHTS
+  1. SpendingScore has a moderate positive correlation with
+     AnnualIncome – higher earners tend to spend more.
+  2. Satisfaction ratings are higher among customers with
+     higher spending scores, suggesting loyalty to spend.
+  3. Johannesburg has the highest customer count (111 customers).
+  4. 'Clothing' is the most popular product category.
+  5. Age distribution is roughly uniform (18–70),
+     indicating no strong age skew in the customer base.
+  6. Purchases follow a Poisson distribution (avg ≈ 12.1),
+     typical for count-based retail metrics.
+
+GENERATED PLOTS
+  plot_01_distributions.png  – Histograms of all numeric features
+  plot_02_categorical.png    – Bar charts for categorical features
+  plot_03_boxplots.png       – Box plots showing spread & outliers
+  plot_04_scatter.png        – Scatter plots (income vs spending, age vs purchases)
+  plot_05_correlation.png    – Correlation heatmap
+  plot_06_grouped.png        – Group-level analysis
+
+============================================================
